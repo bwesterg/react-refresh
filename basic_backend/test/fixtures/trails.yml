@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  description: MyText
+  distance: 1.5
+  start_altitude: 1.5
+  finish_altitude: 1.5
+  elevation_gain: 1.5
+
+two:
+  name: MyString
+  description: MyText
+  distance: 1.5
+  start_altitude: 1.5
+  finish_altitude: 1.5
+  elevation_gain: 1.5
